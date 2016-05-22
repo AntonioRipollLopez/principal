@@ -1,2 +1,2 @@
 # principal
-repositorio primero
+Repositorio de progarmas R
